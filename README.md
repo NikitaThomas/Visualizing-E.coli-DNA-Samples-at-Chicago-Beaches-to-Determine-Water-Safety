@@ -16,3 +16,5 @@ The rapid testing method (qPCR analysis) is a new method that measures levels of
 
 
 ![](https://thumbs.gfycat.com/AbsoluteFlawedBronco-size_restricted.gif)
+
+View full visualization outputs [here](https://www.youtube.com/watch?v=eq1jCEqoV1k). 
