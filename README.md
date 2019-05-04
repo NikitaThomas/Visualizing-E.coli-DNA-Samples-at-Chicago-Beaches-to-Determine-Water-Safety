@@ -12,5 +12,5 @@ The culture based testing numbers indicate E. coli levels present in the water. 
 The rapid testing method (qPCR analysis) is a new method that measures levels of pathogenic DNA in beach water. Unlike the culture based test that requires up to 24 hours of processing, the new rapid testing method requires a few hours for results. The Chicago Park District can use results of the rapid test to notify the public when levels exceed UPEPA recommended levels. US Environmental Protection Agency (USEPA) recommends notifying the public when DNA bacteria levels are above the federal water quality Beach Action Value (BAV), which is 1000*CCE. When DNA bacteria levels exceed 1000 CCE, a yellow or red flag will be implemented. For more information please refer to the USEPA Recreational Water Quality Criteria (http://water.epa.gov/scitech/swguidance/standards/criteria/health/recreation).
 
 * The unit of measurement for Escherichia coli is Colony Forming Units (CFU) per 100 milliliters of water. 
-*The unit of measuring DNA is Enterococci Calibrator Cell Equivalents (CCE) per 100 milliliters of water.
+* The unit of measuring DNA is Enterococci Calibrator Cell Equivalents (CCE) per 100 milliliters of water.
 
