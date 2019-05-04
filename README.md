@@ -14,3 +14,5 @@ The rapid testing method (qPCR analysis) is a new method that measures levels of
 * The unit of measurement for Escherichia coli is Colony Forming Units (CFU) per 100 milliliters of water. 
 * The unit of measuring DNA is Enterococci Calibrator Cell Equivalents (CCE) per 100 milliliters of water.
 
+
+![](https://thumbs.gfycat.com/AbsoluteFlawedBronco-size_restricted.gif)
